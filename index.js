@@ -23,6 +23,4 @@ else{
   }
 }
 
-console.log(newHeader)
-
 document.querySelector('body div h1.display-4').textContent = newHeader;
